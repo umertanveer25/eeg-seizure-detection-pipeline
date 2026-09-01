@@ -27,3 +27,9 @@ venv.bak/
 *.swp
 
 *.zip
+
+# Exclude manuscript files
+manuscript.pdf
+manuscript.tex
+references.bib
+*.pdf
